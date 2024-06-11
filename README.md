@@ -1,1 +1,1 @@
-# algorithm-oython
+# algorithm-python
